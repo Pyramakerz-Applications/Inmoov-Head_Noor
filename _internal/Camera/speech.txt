@@ -1,0 +1,19 @@
+*****************************
+*********Edit Text************
+**********Welcome**********
+Welcome to per makerz
+I am Inmoov Humanoid
+**********Function***********
+I am Inmoov Humanoid
+Obviousy I can speak
+I can detect faces and track them
+I can recognize some of them too
+*********Recognized**********
+Welcome "Name"
+Hope you enjoy the event
+********Unrecognized*********
+I haven't recognized anyone yet
+*********Good Bye************
+I have to leave for now
+Good Bye
+******************************
